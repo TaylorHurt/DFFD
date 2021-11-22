@@ -1,2 +1,0 @@
-# DFFD
-Fraud Detection Model
